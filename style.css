@@ -1,0 +1,22 @@
+ /* body- background- color */
+.bg-color{
+    background-color: #200344;
+}
+/* Header Colors */
+.styke-top{
+    background-color: #352098;
+}
+/* Log In button */
+.log:hover{
+    transition: 0.5s;
+}
+/* Scroll Effects */
+html, body { 
+    scroll-behavior: smooth;
+  }
+
+/* -------------------------------------
+          Responsive Devices
+  --------------------------------------- */
+
+
